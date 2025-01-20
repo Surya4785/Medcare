@@ -1,7 +1,7 @@
 # Medcare : https://surya4785.github.io/Medcare-Group-Project/
 <p style="text-align: justify;"  align="center">Created a complete responsive hospital / medical store / medical website design template using html css and javascript.</p>
 
-<p style="font-size:50rem;" align="center" >Full Web Page</p>
+<h style="font-size:50rem;" align="center" >Full Web Page</h>
 
 
 <img src="/img/1.jpg">
