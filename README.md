@@ -6,7 +6,9 @@
 
 <p style="font-size:50rem;" align="center" >Full Web Page</p>
 
-![Web capture_1-9-2021_18047_medcare-hospital netlify app](https://user-images.githubusercontent.com/71099757/131667998-dd8a1a92-1373-4d29-b3ee-8260a4bb6a1e.jpeg)
+<!-- ![Web capture_1-9-2021_18047_medcare-hospital netlify app](https://user-images.githubusercontent.com/71099757/131667998-dd8a1a92-1373-4d29-b3ee-8260a4bb6a1e.jpeg)
+
+-->
 
 
 <p style="text-align: justify;" align="center">The main feature of this website are:
