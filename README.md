@@ -34,8 +34,3 @@
 ✔ responsive blogs / post / news box section using css grid.
 
 ✔ responsive footer section using css grid.</p>
-
-<p align="center" >If you like it than don't forget to hit the APPRECIATE button also!</p>
-
-<p align="center" >Show some ❤️ by starring some of the repositories!</p>
-
