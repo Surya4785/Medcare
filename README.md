@@ -13,7 +13,7 @@
 <img src="/img/11.jpg">
 <img src="/img/12.jpg">
 
-<p style="text-align: justify;" align="center">The main feature of this website are:
+<h3 style="text-align: justify;" align="center">The main feature of this website are:
 
 ✔ responsive header section using flexbox.
 
@@ -33,4 +33,4 @@
 
 ✔ responsive blogs / post / news box section using css grid.
 
-✔ responsive footer section using css grid.</p>
+✔ responsive footer section using css grid.</h3>
