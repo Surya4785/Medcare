@@ -6,10 +6,19 @@
 
 <p style="font-size:50rem;" align="center" >Full Web Page</p>
 
-<!-- ![Web capture_1-9-2021_18047_medcare-hospital netlify app](https://user-images.githubusercontent.com/71099757/131667998-dd8a1a92-1373-4d29-b3ee-8260a4bb6a1e.jpeg)
 
--->
-
+<img src="/img/1.jpg">
+<img src="/img/2.jpg">
+<img src="/img/3.jpg">
+<img src="/img/4.jpg">
+<img src="/img/5.jpg">
+<img src="/img/6.jpg">
+<img src="/img/7.jpg">
+<img src="/img/8.jpg">
+<img src="/img/9.jpg">
+<img src="/img/10.jpg">
+<img src="/img/11.jpg">
+<img src="/img/12.jpg">
 
 <p style="text-align: justify;" align="center">The main feature of this website are:
 
