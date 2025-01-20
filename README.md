@@ -1,9 +1,6 @@
 # Medcare
 <p style="text-align: justify;"  align="center">Create a complete responsive hospital / medical store / medical website design template using html css and vanilla javascript.</p>
 
-
-![download](https://user-images.githubusercontent.com/71099757/131668021-9e24f2e9-c554-43a9-b4e1-c97a3e102439.png)
-
 <p style="font-size:50rem;" align="center" >Full Web Page</p>
 
 
